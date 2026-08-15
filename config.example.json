@@ -1,0 +1,9 @@
+[
+  {
+    "name": "专辑名称",
+    "biz": "你的biz",
+    "album_id": "你的album_id",
+    "count": 20,
+    "is_reverse": 1
+  }
+]
